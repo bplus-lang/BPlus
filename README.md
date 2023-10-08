@@ -11,4 +11,5 @@ Our sponsors
 | Microsoft      | https://microsoft.com |
 | Apple          | https://apple.com     |
 | Google         | https://google.com    |
+
 ![The B+ Logo](bplus.png)
